@@ -18,6 +18,8 @@ Adapted for sending email from Termux.
 
 >`cd Gmail-Hack`
 
+>`python requirment.py`
+
 >`python Gmail-Hack.py`
 
 

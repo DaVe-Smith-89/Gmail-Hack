@@ -8,7 +8,7 @@ Adapted for sending email from Termux.
 
 ## Command list 👇
 
->```pkg update && pkg upgrade -y```
+```pkg update && pkg upgrade -y```
 
 >```pkg install python -y```
 

@@ -8,19 +8,19 @@ Adapted for sending email from Termux.
 
 ## Command list 👇
 
->`pkg update && pkg upgrade -y`
+>```pkg update && pkg upgrade -y```
 
->`pkg install python -y`
+>```pkg install python -y```
 
->`pkg install git -y`
+>```pkg install git -y```
 
->`git clone https://github.com/DaVe-Smith-89/Gmail-Hack`
+>```git clone https://github.com/DaVe-Smith-89/Gmail-Hack```
 
->`cd Gmail-Hack`
+>```cd Gmail-Hack```
 
->`python requirment.py`
+>```python requirment.py```
 
->`python Gmail-Hack.py`
+>```python Gmail-Hack.py```
 
 
 <hr colour="Red" size="10">
